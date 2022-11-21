@@ -13,15 +13,15 @@
 ## Installation
 
 ```shell
-$ go get github.com/rbxb/httpfilter
-$ go install github.com/rbxb/httpfilter/cmd/httpfilter
+$ go get github.com/JNDEV03/httpfilter
+$ go install github.com/JNDEV03/httpfilter/cmd/httpfilter
 ```
 
 ## Tutorial
 
 Playing around with the pre-made sample should help you get a feel for how httpfilter works.
 
-[tutorial.md](./tutorial.md)
+[tutorial.md](./tutorial.md) - coming soon!
 
 ## How it Works
 
